@@ -10,3 +10,4 @@ venv/
 
 .vscode/
 .idea/
+django_docker.pem
